@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="64956" started-at="2014-11-06T16:58:19Z" finished-at="2014-11-06T16:59:24Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="64956" started-at="2014-11-06T16:58:19Z" finished-at="2014-11-06T16:59:24Z">
+      <class name="com.nativeapps.homeowner.tests.PostaJobTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.nativeapps.homeowner.tests.PostaJobTest@5aad1d4]" name="setup" is-config="true" duration-ms="23812" started-at="2014-11-06T16:58:19Z" finished-at="2014-11-06T16:58:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="postaJobTest()[pri:0, instance:com.nativeapps.homeowner.tests.PostaJobTest@5aad1d4]" name="postaJobTest" duration-ms="37078" started-at="2014-11-06T16:58:43Z" finished-at="2014-11-06T16:59:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postaJobTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.nativeapps.homeowner.tests.PostaJobTest@5aad1d4]" name="tearDown" is-config="true" duration-ms="4056" started-at="2014-11-06T16:59:20Z" finished-at="2014-11-06T16:59:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.nativeapps.homeowner.tests.PostaJobTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
